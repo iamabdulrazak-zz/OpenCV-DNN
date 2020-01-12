@@ -43,7 +43,7 @@ for outs in out:
 			w = int(detect[2] * width)
 			h = int(detect[3] * height)
 
-			#rec cordenates
+			#making rec cordenates
 			x = int(center_x - w / 2)
 			y = int(center_y - h / 2)
 
