@@ -51,7 +51,7 @@ for outs in out:
 			boxs.append([x,y,w,h])
 			#how conf its of the detection
 			confs.append(float(conf))
-			#to know the neme of the object detcted
+			#to know the neme of the object detected
 			class_ids.append(class_id)
 
 #looking thru the objects
