@@ -1,5 +1,5 @@
 # OpenCV-DNN
-Object detection using openCV and deep neural network (DNN)
+Image recognition using openCV and deep neural network (DNN)
 
 Python version: 3.8.0
 
