@@ -6,5 +6,5 @@ Image recognition using openCV and deep neural network (DNN)
 - Python Libraries: (NumPy): pip install numpy, (openCV): pip install opencv-python
 ```
 
-![#f03c15](img/img_detected/img1.png)'#f03c15'
-![#f03c15](img/img_detected/img2.png)'#f03c15'
+![#f03c15](img/img_detected/img1.png)
+![#f03c15](img/img_detected/img2.png)
